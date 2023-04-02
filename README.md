@@ -3,6 +3,10 @@
 A simple but effective way to encrypt and decrypt a message made in **html**, **js** and **css**.
 It was a project made in 2015 by me.
 
+
+**[you can use it here](https://rikozz-dev.github.io/encrypt-decrypt/)**
+
+
 ## Libraries Used
 
 #### CryptoJS
